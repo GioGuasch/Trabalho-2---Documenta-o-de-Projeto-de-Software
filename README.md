@@ -17,7 +17,6 @@ O ShieldFolio propõe-se a ser uma plataforma web voltada à exibição e ao ger
 
 ## 2. Modelos de Usuário e Requisitos
 
-
 ### 2.1 Descrição de Atores
 
 
@@ -56,7 +55,7 @@ O ShieldFolio propõe-se a ser uma plataforma web voltada à exibição e ao ger
 
 #### Diagrama de Casos de Uso
 
-*(Aqui você cola a imagem do Diagrama de Casos de Uso)*
+<img src="https://github.com/GioGuasch/Trabalho-2---Documenta-o-de-Projeto-de-Software/blob/main/Imagens/Casos%20de%20uso.png">
 
 ### 2.3 Diagrama de Sequência do Sistema e Contrato de Operações
 
@@ -73,7 +72,7 @@ O ShieldFolio propõe-se a ser uma plataforma web voltada à exibição e ao ger
 | **Pré-condições** | Usuário deve estar autenticado.<br>Arquivo da imagem deve estar em formato permitido (ex: JPG, PNG). |
 | **Pós-condições** | Imagem é armazenada.<br>Processo de proteção anti-IA é iniciado.<br>Imagem entra em estado de "EmVerificacao". |
 
-*(Aqui você cola a imagem do Diagrama de Sequência UC-01)*
+<img src="https://github.com/GioGuasch/Trabalho-2---Documenta-o-de-Projeto-de-Software/blob/main/Imagens/UC01.png">
 
 ---
 
@@ -89,7 +88,7 @@ O ShieldFolio propõe-se a ser uma plataforma web voltada à exibição e ao ger
 | **Pré-condições** | Usuário deve ser o proprietário da imagem.<br>Imagem deve estar publicada. |
 | **Pós-condições** | Imagem é compartilhada na plataforma externa (ex: Twitter).<br>Link é registrado no sistema para referência. |
 
-*(Aqui você cola a imagem do Diagrama de Sequência UC-02)*
+<img src="https://github.com/GioGuasch/Trabalho-2---Documenta-o-de-Projeto-de-Software/blob/main/Imagens/UC02.png">
 
 ---
 
@@ -105,7 +104,7 @@ O ShieldFolio propõe-se a ser uma plataforma web voltada à exibição e ao ger
 | **Pré-condições** | Usuário deve estar autenticado.<br>Imagem deve estar publicada. |
 | **Pós-condições** | Registro de curtida é salvo.<br>Interface do usuário é atualizada para refletir o like. |
 
-*(Aqui você cola a imagem do Diagrama de Sequência UC-03)*
+<img src="https://github.com/GioGuasch/Trabalho-2---Documenta-o-de-Projeto-de-Software/blob/main/Imagens/UC03.png">
 
 ---
 
@@ -115,43 +114,38 @@ O ShieldFolio propõe-se a ser uma plataforma web voltada à exibição e ao ger
 ### 3.1 Arquitetura
 
 
-*(Aqui você cola a imagem do Diagrama de Arquitetura)*
+<img src="https://github.com/GioGuasch/Trabalho-2---Documenta-o-de-Projeto-de-Software/blob/main/Imagens/Arquitetura.png">
 
 ### 3.2 Diagrama de Componentes e Implantação
 
 
 #### Componentes
 
-*(Aqui você cola a imagem do Diagrama de Componentes)*
+<img src="https://github.com/GioGuasch/Trabalho-2---Documenta-o-de-Projeto-de-Software/blob/main/Imagens/Componentes.png">
 
 #### Implantação
 
-*(Aqui você cola a imagem do Diagrama de Implantação)*
+<img src="https://github.com/GioGuasch/Trabalho-2---Documenta-o-de-Projeto-de-Software/blob/main/Imagens/Implantação.png">
 
 ### 3.3 Diagrama de Classes
 
-
-*(Aqui você cola a imagem do Diagrama de Classes)*
+<img src="https://github.com/GioGuasch/Trabalho-2---Documenta-o-de-Projeto-de-Software/blob/main/Imagens/DiagramaDeClasses.png">
 
 ### 3.4 Diagramas de Sequência
 
-
-*(Aqui você cola a imagem do Diagrama de Sequência Geral)*
+<img src="https://github.com/GioGuasch/Trabalho-2---Documenta-o-de-Projeto-de-Software/blob/main/Imagens/Sequencia.png">
 
 ### 3.5 Diagramas de Comunicação
 
-
-*(Aqui você cola a imagem dos Diagramas de Comunicação)*
+<img src="https://github.com/GioGuasch/Trabalho-2---Documenta-o-de-Projeto-de-Software/blob/main/Imagens/Diagrama%20de%20Comunicacao.png">
 
 ### 3.6 Diagramas de Estados
 
-
-*(Aqui você cola a imagem dos Diagramas de Estados)*
+<img src="https://github.com/GioGuasch/Trabalho-2---Documenta-o-de-Projeto-de-Software/blob/main/Imagens/Estados.png">
 
 ## 4. Modelos de Dados
 
-
-*(Aqui você cola a imagem do Modelo de Dados)*
+<img src="https://github.com/GioGuasch/Trabalho-2---Documenta-o-de-Projeto-de-Software/blob/main/Imagens/ModelodeDados.png">
 
 ### Estratégia de Mapeamento dos Dados
 
