@@ -3,7 +3,7 @@
 
 **Versão:** 1.2
 **Autora:** Giovanna Lima Torres Guasch
-**Data:** 13/11/2025
+**Data:** 11/11/2025
 *Projeto de sistema elaborado como parte da disciplina Projeto de Software.*
 
 ## 1. Introdução
